@@ -2,7 +2,7 @@
 
 Russian data from the SynTagRus corpus (yoficated).
 
-This is a version of SynTagRus dependency treebank repository with yofication performed on wordforms.
+This is a version of [SynTagRus dependency treebank repository](https://github.com/UniversalDependencies/UD_Russian-SynTagRus) with yofication performed on wordforms.
 
 ## ! Unfit for production yet ! 
 
